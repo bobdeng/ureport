@@ -1,0 +1,17 @@
+{
+  "type": "bar",
+  "data": {
+    "labels": [],
+    "datasets": []
+  },
+  "options": {
+    "plugins": {
+      "datalabels": {
+        "display": false
+      }
+    },
+    "scales": {
+      "yAxes": []
+    }
+  }
+}
