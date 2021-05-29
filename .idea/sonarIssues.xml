@@ -13,6 +13,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/ureport2-core/src/test/java/com/bstek/ureport/chart/_snapshots_/empty.snapshot">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/ureport2-core/ureport2-core.iml">
           <value>
             <set />
