@@ -8,12 +8,32 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/ureport2-core/src/main/java/com/bstek/ureport/chart/dataset/impl/category/CategoryDataset.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/ureport2-core/src/test/java/com/bstek/ureport/chart/ChartTest.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/ureport2-core/src/test/java/com/bstek/ureport/chart/_snapshots_/empty.snapshot">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ureport2-core/src/test/java/com/bstek/ureport/chart/dataset/impl/category/CategoryDatasetTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ureport2-core/src/test/java/com/bstek/ureport/chart/dataset/impl/category/TestData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ureport2-core/src/test/java/com/bstek/ureport/chart/dataset/impl/category/_snapshots_/has_empty.snapshot">
           <value>
             <set />
           </value>

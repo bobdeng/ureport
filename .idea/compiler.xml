@@ -14,7 +14,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ureport2-console" target="1.7" />
-      <module name="ureport2-core" target="1.7" />
+      <module name="ureport2-core" target="8" />
       <module name="ureport2-font" target="1.7" />
       <module name="ureport2-parent" target="1.7" />
     </bytecodeTargetLevel>

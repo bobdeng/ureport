@@ -1,0 +1,26 @@
+[
+  {
+    "label": "1",
+    "backgroundColor": "rgba(255, 99, 132,0.3)",
+    "borderColor": "rgb(255, 99, 132)",
+    "borderWidth": 1,
+    "data": [
+      11.0,
+      21.0,
+      31.0,
+      41.0
+    ]
+  },
+  {
+    "label": "2",
+    "backgroundColor": "rgba(54, 162, 235,0.3)",
+    "borderColor": "rgb(54, 162, 235)",
+    "borderWidth": 1,
+    "data": [
+      0.0,
+      22.0,
+      0.0,
+      42.0
+    ]
+  }
+]
