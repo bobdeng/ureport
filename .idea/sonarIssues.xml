@@ -3,6 +3,11 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="$PROJECT_DIR$/ureport2-console/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/ureport2-core/pom.xml">
           <value>
             <set />
@@ -39,6 +44,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/ureport2-core/ureport2-core.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ureport2-font/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ureport2-font/src/main/java/com/bstek/ureport/font/arial/ArialFontRegister.java">
           <value>
             <set />
           </value>
